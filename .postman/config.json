@@ -1,0 +1,14 @@
+{
+  "workspace": {
+    "id": "18880c1d-b61a-4caa-aaf5-1cbcf0383ed6"
+  },
+  "entities": {
+    "collections": [
+      "../postman/collections/RIS-FSA_basicauth_60177932-60ec7608-c9b7-43d5-b9de-e247fd704bdd.postman_collection.json"
+    ],
+    "environments": [],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
